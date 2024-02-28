@@ -1,0 +1,6 @@
+print ( "how old are you?  ")
+print (35)
+print ("ramdeni wlit gsurs mogzauroba?  ")
+print (5)
+print ("how many year old you latter mogzauroba")
+print (35 + 5)

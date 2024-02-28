@@ -3,7 +3,7 @@ from turtle import*
 #we want  to paint big house
 speed(3)
 width(3)
-color("red")
+color("orange")
 begin_fill()
 forward(200)
 left(270)
@@ -17,7 +17,7 @@ right(90)
 
 forward(200)
 end_fill()
-color("pink")
+color("brown")
 begin_fill()
 forward(200)
 right(90)
@@ -31,7 +31,7 @@ end_fill()
 forward(200)
 
 
-color("black")
+color("gray")
 begin_fill()
 left(45)
 forward(140)
@@ -40,9 +40,9 @@ forward(140)
 left(45)
 end_fill()
 
-color("pink")
+color("brown")
 forward(200)
-color("red")
+color("orange")
 
 
 forward(200)
@@ -157,11 +157,6 @@ color("white")
 forward(50)
 color("yellow")
 forward(50)
-
-
-
-
-
 
 
 
