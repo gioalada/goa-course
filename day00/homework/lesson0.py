@@ -4,7 +4,8 @@ from turtle import*
 #we want to paint a house
 
 #step 1: draw a square
-width(7)
+
+width(4)
 color("purple")
 begin_fill()
 forward(200)
@@ -38,7 +39,7 @@ penup()
 goto(200,200)
 pendown()
 
-color("green")
+color("blue")
 begin_fill()
 right(150)
 forward(200)
