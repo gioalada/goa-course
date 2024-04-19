@@ -1,14 +1,4 @@
-# 1 დავალება
 
-test_score = float(input("მიუთითეთ თქვენ ტესტში მიღებული ქულა: "))
-if test_score > 90 and test_score < 100:
-      print("თქვენ დაგიფინანსდათ სწავლა სრულად: ")
-elif test_score > 70 and test_score < 80:
-      print("თქვენ დაგიფინანსდათ სწავლა 1500 ლარით: ")
-elif test_score > 40 and test_score < 70:
-      print("თქვენ დაგიფინანსდათ სწავლა 500 ლარით: ")    
-elif test_score > 10 and test_score <40:
-      print("თქვენ არდაგიფინანსდათ სწავლა: ")  
 
 
 
